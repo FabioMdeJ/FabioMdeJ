@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FabioMdeJ
-- 👀 I’m interested in JAVA and Kotlin
+- 👀 I’m interested in JAVA
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Watts Tel: (19)97140-7895
